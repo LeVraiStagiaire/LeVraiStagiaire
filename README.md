@@ -2,6 +2,7 @@
 - 👀 I’m interested in VB.NET
 - 🌱 I’m currently learning VB.NET, C#, Java, JavaScript
 - 💞️ I’m collaborating on [Infogares](https://github.com/Absolument-Oui/InfoGares)
+- 🏙️ I'm owner of [@AbsolumentOui](https://github.com/Absolument-Oui)
 
 <!---
 FloYoutube54/FloYoutube54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
