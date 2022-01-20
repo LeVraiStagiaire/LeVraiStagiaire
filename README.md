@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FloYoutube54
 - 👀 I’m interested in VB.NET
-- 🌱 I’m currently learning VB.NET, C#, Java, JavaScript
+- 🌱 I’m currently learning VB.NET, C#, Java, JavaScriptn GDScript
 - 💞️ I’m collaborating on [InfoGare](https://github.com/Absolument-Oui/InfoGare)
 - 🏙️ I'm owner of [@AbsolumentOui](https://github.com/Absolument-Oui)
 
