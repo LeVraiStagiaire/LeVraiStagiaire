@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeVraiStagiaire
 - 👀 I’m interested in VB.NET and React
 - 🌱 I’m currently learning VB.NET, C#, Java, JavaScript, React, GDScript
-- 💞️ I’m collaborating on [InfoGare](https://github.com/Absolument-Oui/InfoGare)
+- 💞️ I’m collaborating on [InfoGare](https://github.com/Absolument-Oui/InfoGare) and [AppliHandi](https://github.com/DRANE-NM-Orga/AppliHandi)
 - 🏙️ I'm owner of [@AbsolumentOui](https://github.com/Absolument-Oui)
 
 <!---
